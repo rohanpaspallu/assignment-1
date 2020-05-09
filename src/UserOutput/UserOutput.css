@@ -1,0 +1,9 @@
+.output{
+    width: 60%;
+    padding: 16px;
+    margin: 10%;
+    border: 2px solid blue;
+    background-color: greenyellow;
+    text-align: center;
+
+}
